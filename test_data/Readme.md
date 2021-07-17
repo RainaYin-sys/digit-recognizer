@@ -1,1 +1,1 @@
-Training data and test data.
+Training data, test data and predict result with test data.
